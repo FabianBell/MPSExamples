@@ -1,0 +1,11 @@
+<content>
+  <name name="first">Linux</name>
+  <name name="last">Penguin</name>
+  <CodeOne>1 + 1</CodeOne>
+  
+  <Truth>(1 + 1 == 3) == true</Truth>
+  
+  <CodeTwo>"Linux hates penguins"</CodeTwo>
+  
+  <CodeTwoCorrection>"Linux hates penguins".replace("hates", "loves")</CodeTwoCorrection>
+</content>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="FormCreator.sandbox.Account" file="Account.java">
+    <classNode dependClassName="java.awt.GridLayout" />
+    <classNode dependClassName="java.awt.List" />
+    <classNode dependClassName="java.awt.event.ActionEvent" />
+    <classNode dependClassName="java.awt.event.ActionListener" />
+    <classNode dependClassName="java.lang.Runnable" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.sql.Connection" />
+    <classNode dependClassName="java.sql.DriverManager" />
+    <classNode dependClassName="java.sql.SQLException" />
+    <classNode dependClassName="java.sql.Statement" />
+    <classNode dependClassName="java.util.LinkedHashMap" />
+    <classNode dependClassName="java.util.Map" />
+    <classNode dependClassName="javax.swing.JButton" />
+    <classNode dependClassName="javax.swing.JComboBox" />
+    <classNode dependClassName="javax.swing.JLabel" />
+    <classNode dependClassName="javax.swing.JTextField" />
+    <classNode dependClassName="javax.swing.SwingUtilities" />
+    <classNode extendsClassName="javax.swing.JFrame" />
+  </dependency>
+  <dependency className="FormCreator.sandbox.Umfrage" file="Umfrage.java">
+    <classNode dependClassName="java.awt.GridLayout" />
+    <classNode dependClassName="java.awt.List" />
+    <classNode dependClassName="java.awt.event.ActionEvent" />
+    <classNode dependClassName="java.awt.event.ActionListener" />
+    <classNode dependClassName="java.lang.Runnable" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.sql.Connection" />
+    <classNode dependClassName="java.sql.DriverManager" />
+    <classNode dependClassName="java.sql.SQLException" />
+    <classNode dependClassName="java.sql.Statement" />
+    <classNode dependClassName="java.util.LinkedHashMap" />
+    <classNode dependClassName="java.util.Map" />
+    <classNode dependClassName="javax.swing.JButton" />
+    <classNode dependClassName="javax.swing.JComboBox" />
+    <classNode dependClassName="javax.swing.JLabel" />
+    <classNode dependClassName="javax.swing.JTextField" />
+    <classNode dependClassName="javax.swing.SwingUtilities" />
+    <classNode extendsClassName="javax.swing.JFrame" />
+  </dependency>
+</dependenciesRoot>
+

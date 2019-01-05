@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/XMLJava/XMLJava.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/XMLJava/runtime/XMLJava.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/XMLJava/sandbox/XMLJava.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/XMLJava.build/XMLJava.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

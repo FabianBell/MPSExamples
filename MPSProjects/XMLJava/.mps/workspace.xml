@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarksTool">
+    <option name="myTreeState">
+      <TreeState />
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd007093-4d98-4ba7-8d98-777e25296881" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mps/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mps/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/XMLJava.mpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/Language.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/behavior/BehaviorAspectDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/behavior/XMLExpr__BehaviorDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/behavior/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/constraints/ConstraintsAspectDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/constraints/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/constraints/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/EditorAspectDescriptorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_EditorBuilder_a$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_EditorBuilder_a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_EditorBuilder_a$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_EditorBuilder_a$Inline_Builder0$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_EditorBuilder_a$Inline_Builder0$contentSingleRoleHandler_wqlnbb_a0a0a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_EditorBuilder_a$Inline_Builder0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_SubstituteMenu$SMP_ReferenceScope_8vxk0t_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_SubstituteMenu$SMP_Subconcepts_8vxk0t_b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarElementRef_SubstituteMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$attributesListHandler_5nl6nk_a0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$attributesListHandler_5nl6nk_a2a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$attributesListHandler_5nl6nk_c0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$attributesListHandler_5nl6nk_d0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$contentSingleRoleHandler_5nl6nk_d0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$contentSingleRoleHandler_5nl6nk_e0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a$contentSingleRoleHandler_5nl6nk_f0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/XMLExpr_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/XMLExpr_EditorBuilder_a$expressionSingleRoleHandler_jcy7o0_b0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/XMLExpr_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/editor/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/structure/LanguageConceptSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/structure/StructureAspectDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/structure/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/structure/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/textGen/TextGenAspectDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/textGen/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/textGen/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/textGen/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/typesystem/TypesystemDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/typesystem/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/typesystem/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/typesystem/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/classes_gen/XMLJava/typesystem/typeof_VarElementRef_InferenceRule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/XMLJava/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/XMLJava/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/QueriesGenerated$PVQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/QueriesGenerated$RTQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/QueriesGenerated$SCB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/QueriesGenerated$SNQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/QueriesGenerated$SNsQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/QueriesGenerated$VVQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/QueriesGenerated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/classes_gen/main/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen.caches/XMLJava/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen.caches/XMLJava/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen.caches/main/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen.caches/main/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen/XMLJava/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen/XMLJava/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen/main/QueriesGenerated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/source_gen/main/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/generator/template/main@generator.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/lib/commons-jexl-3.1-bin.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/models/behavior.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/models/constraints.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/models/editor.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/models/structure.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/models/textGen.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/models/typesystem.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/runtime/XMLJava.runtime.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/runtime/models/XMLJava.runtime.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/XMLJava.sandbox.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/classes_gen/XMLJava/sandbox/XML/Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/classes_gen/XMLJava/sandbox/XML/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/classes_gen/XMLJava/sandbox/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/models/XML.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/models/XMLJava.sandbox.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/source_gen.caches/XMLJava/sandbox/XML/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/source_gen.caches/XMLJava/sandbox/XML/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/source_gen.caches/XMLJava/sandbox/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/source_gen.caches/XMLJava/sandbox/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/source_gen/XMLJava/sandbox/XML/Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/source_gen/XMLJava/sandbox/XML/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/sandbox/source_gen/XMLJava/sandbox/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/behavior/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/behavior/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/constraints/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/constraints/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/editor/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/editor/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/structure/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/structure/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/textGen/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/textGen/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/typesystem/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen.caches/XMLJava/typesystem/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/behavior/BehaviorAspectDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/behavior/XMLExpr__BehaviorDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/behavior/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/constraints/ConstraintsAspectDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/constraints/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/constraints/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/VarElementRef_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/VarElementRef_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/VarElementRef_SubstituteMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/VarXmlElement_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/VarXmlElement_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/XMLExpr_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/XMLExpr_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/editor/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/structure/LanguageConceptSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/structure/StructureAspectDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/structure/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/structure/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/textGen/TextGenAspectDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/textGen/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/textGen/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/textGen/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/typesystem/TypesystemDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/typesystem/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/typesystem/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/typesystem/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/XMLJava/source_gen/XMLJava/typesystem/typeof_VarElementRef_InferenceRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/XMLJava.build/XMLJava.build.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/XMLJava.build/models/XMLJava.build.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/XMLJava.build/source_gen.caches/XMLJava/build/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/XMLJava.build/source_gen.caches/XMLJava/build/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/XMLJava.build/source_gen/XMLJava/build/XMLJava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/XMLJava.build/source_gen/XMLJava/build/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/.mps/codeStyleSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/.mps/migration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/.mps/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/.mps/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/.mps/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/.mps/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/buildDistribution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/icons/MPS16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/icons/MPS32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/icons/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/icons/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/FormCreator.mpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/Language.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/behavior/BehaviorAspectDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/behavior/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/constraints/ConstraintsAspectDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/constraints/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/constraints/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_EditorBuilder_a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_EditorBuilder_a$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_EditorBuilder_a$labelListHandler_ruq9pt_a3a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_EditorBuilder_a$labelListHandler_ruq9pt_d0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_EditorBuilder_a$labelListHandler_ruq9pt_f0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_EditorBuilder_a$smodelAttributeListHandler_ruq9pt_a3a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownField_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownLabel_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownLabel_EditorBuilder_a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/DropDownLabel_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/EditorAspectDescriptorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/FormFields_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/FormFields_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$Inline_Builder1$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$Inline_Builder1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$Inline_Builder1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$Inline_Builder1$Inline_Builder2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0$Inline_Builder1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$Inline_Builder0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$formFieldListHandler_317s4_a2a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$formFieldListHandler_317s4_c0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$formFieldsListHandler_317s4_d0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a$formFieldsSingleRoleHandler_317s4_e0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/Form_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/TextField_Editor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/TextField_EditorBuilder_a$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/TextField_EditorBuilder_a$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/TextField_EditorBuilder_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/editor/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/structure/LanguageConceptSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/structure/StructureAspectDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/structure/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/structure/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/typesystem/TypesystemDescriptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/typesystem/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/typesystem/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/classes_gen/FormCreator/typesystem/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/FormCreator/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/FormCreator/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/main/QueriesGenerated$IfMC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/main/QueriesGenerated$PVQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/main/QueriesGenerated$RTQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/main/QueriesGenerated$SNsQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/main/QueriesGenerated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/classes_gen/main/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen.caches/FormCreator/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen.caches/FormCreator/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen.caches/main/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen.caches/main/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen/FormCreator/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen/FormCreator/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen/main/QueriesGenerated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/source_gen/main/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/generator/template/main@generator.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/models/behavior.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/models/constraints.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/models/editor.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/models/structure.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/models/typesystem.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/runtime/FormCreator.runtime.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/runtime/classes_gen/FormCreator/runtime/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/runtime/models/FormCreator.runtime.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/runtime/source_gen.caches/FormCreator/runtime/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/runtime/source_gen.caches/FormCreator/runtime/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/runtime/source_gen/FormCreator/runtime/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/FormCreator.sandbox.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/classes_gen/FormCreator/sandbox/Account$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/classes_gen/FormCreator/sandbox/Account$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/classes_gen/FormCreator/sandbox/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/classes_gen/FormCreator/sandbox/Umfrage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/classes_gen/FormCreator/sandbox/Umfrage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/classes_gen/FormCreator/sandbox/Umfrage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/classes_gen/FormCreator/sandbox/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/models/FormCreator.sandbox.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/source_gen.caches/FormCreator/sandbox/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/source_gen.caches/FormCreator/sandbox/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/source_gen/FormCreator/sandbox/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/source_gen/FormCreator/sandbox/Umfrage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/sandbox/source_gen/FormCreator/sandbox/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/behavior/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/behavior/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/constraints/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/constraints/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/editor/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/editor/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/structure/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/structure/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/typesystem/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen.caches/FormCreator/typesystem/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/behavior/BehaviorAspectDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/behavior/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/constraints/ConstraintsAspectDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/constraints/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/constraints/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/constraints/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/DropDownField_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/DropDownField_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/DropDownLabel_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/DropDownLabel_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/FormFields_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/FormFields_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/Form_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/Form_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/TextField_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/TextField_EditorBuilder_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/editor/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/structure/LanguageConceptSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/structure/StructureAspectDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/structure/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/structure/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/typesystem/TypesystemDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/typesystem/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/typesystem/checkpoints" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/languages/FormCreator/source_gen/FormCreator/typesystem/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build/models/mps.form.build.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build/mps.form.build.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/classes_gen/mps/form/build/mps.form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/classes_gen/mps/form/build/mps.formDistribution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/classes_gen/mps/form/build/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/models/mps.form.build.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/mps.form.build.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/source_gen.caches/mps/form/build/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/source_gen.caches/mps/form/build/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/source_gen/mps/form/build/mps.form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/source_gen/mps/form/build/mps.formDistribution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build0/source_gen/mps/form/build/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/classes_gen/mps/form/build/mps.form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/classes_gen/mps/form/build/trace.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/models/mps.form.build.mps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/mps.form.build.msd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/source_gen.caches/mps/form/build/dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/source_gen.caches/mps/form/build/generated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/source_gen/mps/form/build/mps.form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mps.form/solutions/mps.form.build1/source_gen/mps/form/build/trace.info" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ConsoleHistory">
+    <option name="tabs">
+      <list>
+        <TabState>
+          <option name="title" value="Console" />
+          <tab>
+            <model ref="dbeb1b13-ea4e-478c-8ad3-7a5ebdedb831/r:96606eb8-999b-42ce-b525-dc67dba4ec30(TempModuledbeb1b13-ea4e-478c-8ad3-7a5ebdedb831/TempModel_4135391396278594)">
+              <persistence version="9" />
+              <languages>
+                <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
+              </languages>
+              <imports />
+              <registry>
+                <language id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base">
+                  <concept id="1583916890557930028" name="jetbrains.mps.console.base.structure.ConsoleRoot" flags="ng" index="aymSD">
+                    <child id="1583916890557930415" name="history" index="aymYE" />
+                    <child id="1583916890557930417" name="commandHolder" index="aymYO" />
+                    <child id="9025248442620242919" name="cursor" index="1PhJh3" />
+                  </concept>
+                  <concept id="5758176878586720817" name="jetbrains.mps.console.base.structure.CommandHolderRef" flags="ng" index="2_V_lH">
+                    <reference id="5758176878586720818" name="target" index="2_V_lI" />
+                  </concept>
+                  <concept id="351968380916615243" name="jetbrains.mps.console.base.structure.CommandHolder" flags="ng" index="2Clz$F" />
+                  <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
+                </language>
+              </registry>
+              <node concept="aymSD" id="2ihGnzYpp62">
+                <node concept="3balQm" id="2ihGnzYpp63" role="aymYE" />
+                <node concept="2Clz$F" id="2ihGnzYpp64" role="aymYO" />
+                <node concept="2_V_lH" id="2ihGnzYpp65" role="1PhJh3">
+                  <ref role="2_V_lI" node="2ihGnzYpp64" resolve="CommandHolder" />
+                </node>
+              </node>
+            </model>
+          </tab>
+        </TabState>
+      </list>
+    </option>
+  </component>
+  <component name="DefaultSearchOptions3">
+    <search_options>
+      <finders>
+        <finders />
+      </finders>
+      <scope>
+        <scope_type scope_type="PROJECT" module="&lt;default&gt;" model="&lt;default&gt;" />
+      </scope>
+      <view>
+        <flags show_one_result="true" new_tab="false" />
+      </view>
+    </search_options>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-58629415">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="&lt;no name&gt;[ConceptDeclaration]" value="8" />
+          <entry key="&lt;no name&gt;[ConstrainedDataTypeDeclaration]" value="1" />
+          <entry key="&lt;no name&gt;[MappingScript]" value="3" />
+          <entry key="&lt;no name&gt;[TemplateDeclaration]" value="4" />
+          <entry key="&lt;no name&gt;[XmlFile]" value="1" />
+          <entry key="???_Behavior" value="1" />
+          <entry key="AbstractUnaryNumberOperation" value="1" />
+          <entry key="AddStatement" value="1" />
+          <entry key="BinaryOperation" value="1" />
+          <entry key="BwfPathReference" value="1" />
+          <entry key="CopySrcNodeMacro" value="1" />
+          <entry key="Expression" value="3" />
+          <entry key="IfStatement" value="1" />
+          <entry key="LinkDeclaration" value="1" />
+          <entry key="Test" value="11" />
+          <entry key="TextGen" value="4" />
+          <entry key="VarElementRef" value="1" />
+          <entry key="VarXmlElement" value="11" />
+          <entry key="VariableDeclaration" value="1" />
+          <entry key="XMLExpr" value="5" />
+          <entry key="XMLFieldRef" value="1" />
+          <entry key="XMLVarElement" value="3" />
+          <entry key="XmlBaseElement" value="2" />
+          <entry key="XmlElement" value="8" />
+          <entry key="main" value="5" />
+          <entry key="null_Test" value="1" />
+          <entry key="reduce_Exprestion" value="1" />
+          <entry key="xml" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="MPS_NODE" value="78" />
+          <entry key="PLAIN_TEXT" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1829003797">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Test" value="1" />
+          <entry key="XMLJava" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="MPS_NODE" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://XMLJava/XMLJava.structure/VarXmlElement">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="15" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_pyph5i_c0a">
+                      <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791513977386" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791513977386" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="mps://node://XMLJava.sandbox/XMLJava.sandbox.XML/Test">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="87" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://XMLJava#01/main@generator/main">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="731" />
+                    <property name="caretXRelative" value="72" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_jiideg_a0">
+                      <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791515019295" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="refNodeList_dropAttrubuteRule">
+                      <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/1687312776787576337" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://XMLJava.build/XMLJava.build/XMLJava">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="51" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_io6s4u_a0">
+                      <node node_reference="r:703d00a2-5783-4847-ad7d-3bcf7f407a67(XMLJava.build)/7771719824935986143" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_pilq2t_c0">
+                      <node node_reference="r:703d00a2-5783-4847-ad7d-3bcf7f407a67(XMLJava.build)/7771719824935986164" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MPSBookmarkManager">
+    <option name="myBookmarkInfos">
+      <array>
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+      </array>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3263" />
+    <option name="y" value="1852" />
+    <option name="width" value="3276" />
+    <option name="height" value="1914" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectPluginManager">
+    <option name="pluginsState">
+      <option name="jetbrains.mps.baseLanguage.lightweightdsl.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.editor.contextActionsTool.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.execution.configurations.implementation.plugin.plugin.Plugin_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.actions.Ide_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.ide.actions.BehaviorDialogsPersistentOptions_PreferencesComponent" />
+                  <params>
+                    <option name="addReturnsOnImplement" value="false" />
+                    <option name="sortAlphabetically" value="false" />
+                    <option name="removeAttributes" value="true" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.devkit.actions.Mpsdevkit_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.make.actions.Make_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.vcs.mergehints.plugin.plugin.Plugin_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+    </option>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Favorites" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5ce6f410-70ad-4bd3-b47b-8d935baf4491" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMLJava" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:703d00a2-5783-4847-ad7d-3bcf7f407a67(XMLJava.build) in IdeaFile[file://C:/Users/Fabian/Desktop/Uni/Proseminar_MPS/Examples/MPSProjects/XMLJava/solutions/XMLJava.build/models/XMLJava.build.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5ce6f410-70ad-4bd3-b47b-8d935baf4491" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMLJava" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2d3201f0-dcb8-4bba-9511-b2d1543cb908" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMLJava" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2d3201f0-dcb8-4bba-9511-b2d1543cb908" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMLJava" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:8dcd3715-94cc-47f8-aa0c-2ccf672a1d23(XMLJava.sandbox) in IdeaFile[file://C:/Users/Fabian/Desktop/Uni/Proseminar_MPS/Examples/MPSProjects/XMLJava/languages/XMLJava/sandbox/models/XMLJava.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML) in IdeaFile[file://C:/Users/Fabian/Desktop/Uni/Proseminar_MPS/Examples/MPSProjects/XMLJava/languages/XMLJava/sandbox/models/XML.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5ce6f410-70ad-4bd3-b47b-8d935baf4491" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2d3201f0-dcb8-4bba-9511-b2d1543cb908" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2d3201f0-dcb8-4bba-9511-b2d1543cb908" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMLJava" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:8dcd3715-94cc-47f8-aa0c-2ccf672a1d23(XMLJava.sandbox) in IdeaFile[file://C:/Users/Fabian/Desktop/Uni/Proseminar_MPS/Examples/MPSProjects/XMLJava/languages/XMLJava/sandbox/models/XMLJava.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2d3201f0-dcb8-4bba-9511-b2d1543cb908" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XMLJava" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:8dcd3715-94cc-47f8-aa0c-2ccf672a1d23(XMLJava.sandbox) in IdeaFile[file://C:/Users/Fabian/Desktop/Uni/Proseminar_MPS/Examples/MPSProjects/XMLJava/languages/XMLJava/sandbox/models/XMLJava.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML) in IdeaFile[file://C:/Users/Fabian/Desktop/Uni/Proseminar_MPS/Examples/MPSProjects/XMLJava/languages/XMLJava/sandbox/models/XML.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6880969939207743212" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </SELECTED>
+        </subPane>
+      </pane>
+      <pane id="FileSystem">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="XMLJava" type="Build Script" factoryName="Build Script" temporary="true">
+      <myNodePointer>
+        <MyState>
+          <option name="myNodePointer" value="r:703d00a2-5783-4847-ad7d-3bcf7f407a67(XMLJava.build)/7771719824935986140" />
+          <option name="myNodeText" value="XMLJava.build.XMLJava" />
+        </MyState>
+      </myNodePointer>
+      <mySettings>
+        <MyState>
+          <option name="myUseOtherAntLocation" value="false" />
+          <option name="myOtherAntLocation" />
+          <option name="myAntOptions" />
+        </MyState>
+      </mySettings>
+      <method v="2">
+        <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.MakeNodePointers_BeforeTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Build Script.XMLJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3263" y="1852" width="3276" height="1914" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2189666" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38106236" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Model Checker" order="7" sideWeight="0.499586" weight="0.32917082" />
+      <window_info anchor="bottom" id="Bookmarks" order="8" />
+      <window_info anchor="bottom" id="Migration" order="9" />
+      <window_info anchor="bottom" id="Menu Trace" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.499862" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.500138" side_tool="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Classpath Explorer" order="13" />
+      <window_info anchor="bottom" id="Usages" order="14" />
+      <window_info anchor="bottom" id="Node Explorer" order="15" sideWeight="0.49930996" weight="0.32967034" />
+      <window_info anchor="bottom" id="Module Dependencies" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Generation Tracer" order="18" />
+      <window_info anchor="bottom" id="Cell Explorer" order="19" />
+      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.4982059" weight="0.2827173" />
+      <window_info anchor="bottom" id="Typechecker State" order="21" />
+      <window_info anchor="bottom" id="Console" order="22" sideWeight="0.499862" weight="0.32967034" />
+      <window_info anchor="bottom" id="RefactoringView" order="23" weight="0.32967034" />
+      <window_info anchor="bottom" id="Inspector" order="24" sideWeight="0.5017941" side_tool="true" weight="0.2827173" />
+      <window_info anchor="bottom" id="Dependencies Viewer" order="25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.249793" />
+      <window_info anchor="right" id="Class Hierarchy" order="3" />
+      <window_info anchor="right" id="Typesystem Trace" order="4" />
+      <window_info anchor="right" id="Supertypes" order="5" />
+      <window_info anchor="right" id="Context Actions" order="6" weight="0.32983714" />
+    </layout>
+  </component>
+  <component name="UsagesViewTool">
+    <version id="1" />
+    <tabs />
+    <default_view_options>
+      <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
+    </default_view_options>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="mps://node://jetbrains.mps.lang.plugin/jetbrains.mps.lang.plugin.structure/AddStatement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590368(jetbrains.mps.lang.plugin.structure)/1227013049127" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590368(jetbrains.mps.lang.plugin.structure)/1227013049127" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="caretXRelative" value="-15" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_0">
+                  <node node_reference="r:00000000-0000-4000-0000-011c89590368(jetbrains.mps.lang.plugin.structure)/1227013049127" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c89590368(jetbrains.mps.lang.plugin.structure)/1227013049127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.baseLanguage/jetbrains.mps.baseLanguage.structure/IfStatement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="699" />
+                <property name="caretXRelative" value="198" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)/1176898844264" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)/1176898844264" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)/1176898805542" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.baseLanguage/jetbrains.mps.baseLanguage.structure/VariableDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionStart" value="0" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretX" value="951" />
+                <property name="selectionEnd" value="19" />
+                <property name="caretXRelative" value="72" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)/554301099359820445" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)/554301099359820445" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)/554301099359820376" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava#01/main@generator/reduce_Exprestion" />
+    <entry file="mps://node://XMLJava.sandbox@transient30/XMLJava.sandbox.XML@0/Test" />
+    <entry file="mps://node://XMLJava.sandbox@transient32/XMLJava.sandbox.XML@0/Test" />
+    <entry file="mps://node://XMLJava.sandbox@transient38/XMLJava.sandbox.XML@0/Test" />
+    <entry file="mps://node://XMLJava#01/main@generator/reduce_VarElement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="empty_parameter">
+                  <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791513977386" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791514216300" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava.sandbox@transient84/XMLJava.sandbox.XML@0/Test" />
+    <entry file="mps://node://jetbrains.mps.baseLanguage/jetbrains.mps.baseLanguage.structure/Expression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="159" />
+                <property name="caretXRelative" value="72" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783750603348" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783750602974" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1262430001741498050" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1262430001741498032" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1262430001741497939" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1239211900844" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1238860310638" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1238860258777" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1213877519786" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1213877519781" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_6lfqqa_b0">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1213877519793" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783750602974" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783750603348" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1213877519768" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.baseLanguage/jetbrains.mps.baseLanguage.structure/AbstractUnaryNumberOperation">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="825" />
+                <property name="caretXRelative" value="504" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1239714994837" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1239714999026" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_6lfqqa_b0">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1239714994838" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1239714994837" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1239714994837" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.baseLanguage/jetbrains.mps.baseLanguage.structure/BinaryOperation">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="1213">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionStart" value="0" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretX" value="843" />
+                <property name="selectionEnd" value="33" />
+                <property name="caretXRelative" value="90" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783752756691" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1238926781614766576" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1238926781612826822" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/6205351058571053912" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783752756055" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783752747242" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783752669929" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1742226163711436995" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1742226163711434424" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1742226163722785339" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1742226163722784453" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1262430001741497858" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_6lfqqa_b0">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1262430001741497862" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783752747242" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1587718783752756691" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)/1262430001741497861" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava/XMLJava.behavior/???_Behavior" />
+    <entry file="mps://node://XMLJava/XMLJava.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://jetbrains.mps.core.xml/jetbrains.mps.core.xml.structure/XmlElement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="573" />
+                <property name="caretXRelative" value="180" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:edc2e1a3-c4ab-4f36-a908-e29e4c77f1bb(jetbrains.mps.core.xml.constraints)/6666499814681447914" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:edc2e1a3-c4ab-4f36-a908-e29e4c77f1bb(jetbrains.mps.core.xml.constraints)/6666499814681447916" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:edc2e1a3-c4ab-4f36-a908-e29e4c77f1bb(jetbrains.mps.core.xml.constraints)/6666499814681447914" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:edc2e1a3-c4ab-4f36-a908-e29e4c77f1bb(jetbrains.mps.core.xml.constraints)/6666499814681447914" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://jetbrains.mps.lang.generator/jetbrains.mps.lang.generator.structure/CopySrcNodeMacro">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="1752">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="249" />
+                <property name="caretXRelative" value="198" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534439454949" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534439684262" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534439684242" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534439684200" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534439454950" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534438638176" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_dropAttrubuteRule">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534438618871" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534439454949" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)/4914935534438618871" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava/XMLJava.structure/TestElement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="141" />
+                <property name="caretXRelative" value="126" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a">
+                  <node node_reference="r:15e9509a-df61-4996-a6c2-46b23852211c(XMLJava.structure)/507412791515385627" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:15e9509a-df61-4996-a6c2-46b23852211c(XMLJava.structure)/507412791515385627" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:15e9509a-df61-4996-a6c2-46b23852211c(XMLJava.structure)/507412791515385627" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava#01/main@generator/&lt;no name&gt;[TemplateDeclaration]" />
+    <entry file="mps://node://XMLJava#01/main@generator/reduce_XMLExpr" />
+    <entry file="mps://node://XMLJava/XMLJava.structure/XMLExpr">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Error">
+                  <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/4505430484840396219" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellId="Error">
+                <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/4505430484840396219" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/4505430484840396219" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/4505430484840388656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava#01/main@generator/&lt;no name&gt;[MappingScript]" />
+    <entry file="mps://node://XMLJava#01/main@generator/eval" />
+    <entry file="mps://node://XMLJava/XMLJava.structure/VarXmlElement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_pyph5i_c0a">
+                  <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791513977386" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791513977386" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava#01/main@generator/main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="731" />
+                <property name="caretXRelative" value="72" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_jiideg_a0">
+                  <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/507412791515019295" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_dropAttrubuteRule">
+                  <node node_reference="r:3e85e819-bd8e-438b-94dc-6e14d266ed4a(main@generator)/1687312776787576337" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava.build/XMLJava.build/XMLJava">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="51" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_io6s4u_a0">
+                  <node node_reference="r:703d00a2-5783-4847-ad7d-3bcf7f407a67(XMLJava.build)/7771719824935986143" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_pilq2t_c0">
+                  <node node_reference="r:703d00a2-5783-4847-ad7d-3bcf7f407a67(XMLJava.build)/7771719824935986164" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://XMLJava.sandbox/XMLJava.sandbox.XML/Test">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="87" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212" saveSessionState="false" viewPositionX="0" viewPositionY="-30">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

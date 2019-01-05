@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root>
+    <file name="TypesystemDescriptor.java">
+      <unit at="8,0,16,0" name="XMLJava.typesystem.TypesystemDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:72afadfe-52b2-4715-8510-3a8b6e473903(XMLJava.typesystem)/507412791513836036">
+    <file name="TypesystemDescriptor.java">
+      <node id="507412791513836036" at="10,5,11,85" concept="4" />
+      <node id="507412791513836036" at="11,85,12,47" concept="2" />
+      <node id="507412791513836036" at="9,33,13,5" concept="0" />
+      <scope id="507412791513836036" at="10,5,12,47">
+        <var name="inferenceRule" id="507412791513836036" />
+      </scope>
+    </file>
+    <file name="typeof_VarElementRef_InferenceRule.java">
+      <node id="507412791513941960" at="19,5,20,55" concept="4" />
+      <node id="507412791513941960" at="20,55,21,183" concept="4" />
+      <node id="507412791513941960" at="21,183,22,838" concept="2" />
+      <node id="507412791513836036" at="25,50,26,138" concept="5" />
+      <node id="507412791513836036" at="28,68,29,102" concept="5" />
+      <node id="507412791513836036" at="31,30,32,17" concept="5" />
+      <node id="507412791513836036" at="16,0,18,0" concept="1" trace="typeof_VarElementRef_InferenceRule#()V" />
+      <node id="507412791513836036" at="25,0,28,0" concept="3" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="507412791513836036" at="28,0,31,0" concept="3" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="507412791513836036" at="31,0,34,0" concept="3" trace="overrides#()Z" />
+      <node id="507412791513941960" at="18,126,23,5" concept="0" />
+      <node id="507412791513836036" at="18,0,25,0" concept="3" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="507412791513836036" at="16,47,16,47" />
+      <scope id="507412791513836036" at="25,50,26,138" />
+      <scope id="507412791513836036" at="28,68,29,102" />
+      <scope id="507412791513836036" at="31,30,32,17" />
+      <scope id="507412791513836036" at="16,0,18,0" />
+      <scope id="507412791513941960" at="19,5,22,838">
+        <var name="_info_12389875345" id="507412791513941960" />
+        <var name="_nodeToCheck_1029348928467" id="507412791513941960" />
+      </scope>
+      <scope id="507412791513836036" at="25,0,28,0" />
+      <scope id="507412791513836036" at="28,0,31,0">
+        <var name="argument" id="507412791513836036" />
+      </scope>
+      <scope id="507412791513836036" at="31,0,34,0" />
+      <scope id="507412791513836037" at="18,126,23,5" />
+      <scope id="507412791513836036" at="18,0,25,0">
+        <var name="status" id="507412791513836036" />
+        <var name="typeCheckingContext" id="507412791513836036" />
+        <var name="varElementRef" id="507412791513836036" />
+      </scope>
+      <unit id="507412791513836036" at="15,0,35,0" name="XMLJava.typesystem.typeof_VarElementRef_InferenceRule" />
+    </file>
+  </root>
+</debug-info>
+

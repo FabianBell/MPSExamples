@@ -1,0 +1,10 @@
+<body>
+  <Test>1 + 2</Test>
+  <sol>1 + 2 + <!TextGen not found for 'XMLJava.structure.VarElementRef'!></sol>
+  <Test2><!TextGen not found for 'XMLJava.structure.VarElementRef'!> + 3</Test2>
+  
+  <Con><!TextGen not found for 'XMLJava.structure.VarElementRef'!> == 3</Con>
+  
+  <Con2><!TextGen not found for 'XMLJava.structure.VarElementRef'!> == true</Con2>
+  <sol2><!TextGen not found for 'XMLJava.structure.VarElementRef'!> + <!TextGen not found for 'XMLJava.structure.VarElementRef'!></sol2>
+</body>

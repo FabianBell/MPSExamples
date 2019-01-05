@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/FormCreator/FormCreator.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/FormCreator/runtime/FormCreator.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/FormCreator/sandbox/FormCreator.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/mps.form.build1/mps.form.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

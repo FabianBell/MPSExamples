@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:3e47b2be-c403-4f3f-8ec9-1cc537490829(XMLJava.sandbox.XML)/6880969939207743212">
+    <file name="Test.xml">
+      <unit id="6880969939207743212" at="1,0,10,7" name="XMLJava.sandbox.XML.Test" />
+    </file>
+  </root>
+</debug-info>
+
