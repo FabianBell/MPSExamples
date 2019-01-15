@@ -2,7 +2,7 @@
 build/
 workspace.xml
 #IDE Stuff
-.idea/
+##.idea/
 .classpath
 .project
 .settings/
