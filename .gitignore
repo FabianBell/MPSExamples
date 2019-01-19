@@ -1,6 +1,9 @@
 #MPS Build
 build/
 workspace.xml
+classes_gen/
+source_gen/
+source_gen.caches/
 #IDE Stuff
 ##.idea/
 .classpath
