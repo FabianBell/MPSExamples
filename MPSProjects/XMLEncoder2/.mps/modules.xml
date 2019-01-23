@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/XMLEncoder2/XMLEncoder2.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/XMLEncoder2/runtime/XMLEncoder2.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/XMLEncoder2/sandbox/XMLEncoder2.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
